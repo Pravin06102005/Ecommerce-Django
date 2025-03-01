@@ -28,7 +28,7 @@ Install Python 3.7 or above
 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`):
 ```bash
-git clone https://github.com/prathmeshsoni/Ecommerce.git && cd Ecommerce
+Download
 ```
 
 <br />
